@@ -1,26 +1,28 @@
 {
-    "bin": "./lib/cli.js",
-    "name": "testarossa",
-    "version": "0.0.2",
-    "authors": [
-        {
-            "name": "Bruno Windels",
-            "email": "bruno.windels@nokia.com"
-        },
-        {
-            "name": "Christian Kaatz",
-            "email": "christian.kaatz@here.com"
-        }
-    ],
-    "description": "An async test framework that is very extensible and includes a handy http helper",
-    "main": "./lib/index.js",
-    "repository": "https://github.com/ckaatz-nokia/testarossa.git",
-    "dependencies" : {
-        "async" : "0.x",
-        "container": "0.x",
-        "underscore": "1.x",
-        "upperscore": "0.x",
-        "commander": "1.1.x"
+  "bin": "./lib/cli.js",
+  "name": "testarossa",
+  "version": "0.0.3",
+  "authors": [
+    {
+      "name": "Bruno Windels",
+      "email": "bruno.windels@nokia.com"
     },
-    "engines" : { "node" : ">=0.8" }
+    {
+      "name": "Christian Kaatz",
+      "email": "christian.kaatz@here.com"
+    }
+  ],
+  "description": "An async test framework that is very extensible and includes a handy http helper",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/ckaatz-nokia/testarossa.git",
+  "dependencies": {
+    "async": "0.x",
+    "container": "0.x",
+    "underscore": "1.x",
+    "upperscore": "0.x",
+    "commander": "1.1.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
 }
