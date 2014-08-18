@@ -1,0 +1,14 @@
+{
+  "name": "testarossa-example",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Christian Kaatz",
+      "email": "christian.kaatz@here.com"
+    }
+  ],
+  "dependencies": {
+    "container": "0.0.2",
+    "request": "2.34.x"
+  }
+}
