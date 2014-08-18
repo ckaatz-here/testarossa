@@ -1,5 +1,6 @@
 Testarossa
 ==========
+[![NPM version](https://badge.fury.io/js/testarossa.svg)](http://badge.fury.io/js/testarossa)
 
 Testarossa, an extensible and truly async test framework for node
 
