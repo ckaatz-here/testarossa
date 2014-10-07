@@ -41,3 +41,9 @@ optional body data and headers and a mandatory evaluate Object as shorthand vali
 supported methods: get, head, post, put, delete, trace, options, connect, patch
 
     $ test.[method](path,[body,][headers,]evaluateObject)
+
+Changelog
+---------
+v0.2.0 adding support for multiple fromatters see
+    
+    $ node lib/cli.js --help
