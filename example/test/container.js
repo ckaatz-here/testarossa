@@ -4,4 +4,5 @@ module.exports = function(container) {
     container.add('host', 'localhost');
     container.add('port', 1337);
     container.add('rootPath', '');
+    container.add('strictSSL', false);
 };
