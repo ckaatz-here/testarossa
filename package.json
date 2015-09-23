@@ -16,7 +16,7 @@
   "main": "./lib/index.js",
   "repository": "https://github.com/ckaatz-nokia/testarossa.git",
   "dependencies": {
-    "async": "0.x",
+    "async": "1.x",
     "container": "0.x",
     "underscore": "1.x",
     "upperscore": "0.x",
